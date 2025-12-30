@@ -35,10 +35,10 @@ Integrated LimaCharlie telemetry with Tines via webhook for real-time SOAR story
 Designed Tines SOAR "story" for Slack alerts, email notifications, user prompts, and conditional host isolation based on analyst feedback.
 ​
 
-Configured Slack as interactive communication layer in SOAR workflow for decision-making and response execution.
+Configured Slack as interactive communication layer in the SOAR workflow for decision-making and response execution.
 ​
 
-Simulated real-world password recovery attack using LaZagne on monitored Windows VM to generate telemetry.
+Simulated a real-world password recovery attack using LaZagne on a monitored Windows VM to generate telemetry.
 ​
 
 Validated end-to-end detection-response workflow, confirming alerts, isolation, and telemetry flow.
