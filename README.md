@@ -15,23 +15,14 @@ The SOAR EDR lab project aimed at creating an automatic procedure to respond to 
 
 ### Tools Used
 
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-
-​
-<img src="https://img.shields.io/badge/LimaCharlie-0A2540?style=for-the-badge&logo=lima-charlie&logoColor=white" />
-
-​
-<img src="https://img.shields.io/badge/LaZagne-FF6B35?style=for-the-badge&logo=lazagne&logoColor=white" />
-
-​
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />​
+<img src="https://img.shields.io/badge/LimaCharlie-0A2540?style=for-the-badge&logo=lima-charlie&logoColor=white" />​
+<img src="https://img.shields.io/badge/LaZagne-FF6B35?style=for-the-badge&logo=lazagne&logoColor=white" />​
 <img src="https://img.shields.io/badge/Atomic_Red_Team-EE0000?style=for-the-badge&logo=atomic-red-team&logoColor=white" />
-
-
 <img src="https://img.shields.io/badge/-Tines-0A2540?style=for-the-badge&logo=tines&logoColor=white" />
-
 <img src="https://img.shields.io/badge/-Virtualization%20&%20Testing_Windows_VMs-0A2540?style=for-the-badge&logo=virtualbox&logoColor=white" />
 
-## Steps and Img
+## Steps and Images
 Created detailed workflow diagrams to map SOAR playbooks and iteratively refine automation logic during design and deployment.
 ​
 
